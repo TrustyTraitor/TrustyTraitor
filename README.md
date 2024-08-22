@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Michael
-
+I'm an aspiring Indie Game Dev currently pursuing a masters degree at UNC Charlotte. With almost a decade of primarily self taught learning I am excited to learn more and dive into new projects.
 
 ## Game Development Tools
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#) [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
