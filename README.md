@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Michael
-I'm an aspiring Indie Game Dev with a masters degree from UNC Charlotte. With almost a decade of primarily self taught learning I am excited to learn more and dive into new projects.
+I'm an aspiring Indie Game Dev with a CompSci Masters, with a concentration on Game Dev and AI, from UNC Charlotte. With almost a decade of primarily self taught learning I am excited to learn more and dive into new projects.
 
 ## Featured Projects
 ### [Stealth Heist Game](https://github.com/TrustyTraitor/stealth-game)
