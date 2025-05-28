@@ -1,5 +1,15 @@
 ## Hi there 👋 I'm Michael
-I'm an aspiring Indie Game Dev currently pursuing a masters degree at UNC Charlotte. With almost a decade of primarily self taught learning I am excited to learn more and dive into new projects.
+I'm an aspiring Indie Game Dev with a masters degree from UNC Charlotte. With almost a decade of primarily self taught learning I am excited to learn more and dive into new projects.
+
+## Featured Projects
+### [Stealth Heist Game](https://github.com/TrustyTraitor/stealth-game)
+This project, made in Unity with C#, was my game development capstone project. It is a proof of concept that primarily sought to emulate features from the Payday series.
+
+### [WebGL](https://github.com/TrustyTraitor/WebGL-CG)
+This repo contains projects and homeworks from my computer graphics class at UNC Charlotte.
+
+### [Space Liberator](https://github.com/TrustyTraitor/Space-Liberator)
+This is a game is inspired by Helldivers 2. It is a 2D top-down shooter made in GameMaker. This was created for my introductory game development class. The focus of my work on this project was creating clean and extensible systems to allow creation of content quickly.
 
 ## Game Development Tools
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#) [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
