@@ -3,7 +3,7 @@ I'm an aspiring Indie Game Dev with a CompSci Masters, with a concentration on G
 
 ## Featured Projects
 ### [Stealth Heist Game](https://github.com/TrustyTraitor/stealth-game)
-This project, made in Unity with C#, was my game development capstone project. It is a proof of concept that primarily sought to emulate features from the Payday series.
+This project, made in Unity with C#, was my first attempt at making a stealth game. It is a proof of concept that primarily sought to emulate features from the Payday series.
 
 ### [WebGL](https://github.com/TrustyTraitor/WebGL-CG)
 This repo contains projects and homeworks from my computer graphics class at UNC Charlotte.
