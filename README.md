@@ -3,7 +3,7 @@ I'm an aspiring Indie Game Dev with a CompSci Masters, with a concentration on G
 
 ## Featured Projects
 ### [Blog Backend](https://github.com/TrustyTraitor/blog-backend)
-This project contains the API, written in **Python** using **FastAPI**, as well as database schema generation and interactions created with **SQLAlchemy**.
+This project contains the API, written in **Python** using **FastAPI**, as well as database schema generation and interactions created with **SQLAlchemy**. This project supports users, login, creating blog posts, commenting, authentication, and authorization.
 
 ### [Stealth Heist Game](https://github.com/TrustyTraitor/stealth-game)
 This project, made in Unity with **C#**, was my first attempt at making a stealth game. It is a proof of concept that primarily sought to emulate features from the Payday series.
