@@ -2,8 +2,11 @@
 I'm an aspiring Indie Game Dev with a CompSci Masters, with a concentration on Game Dev and AI, from UNC Charlotte. With almost a decade of primarily self taught learning I am excited to learn more and dive into new projects.
 
 ## Featured Projects
+### [Blog Backend](https://github.com/TrustyTraitor/blog-backend)
+This project contains the API, written in **Python** using **FastAPI**, as well as database schema generation and interactions created with **SQLAlchemy**.
+
 ### [Stealth Heist Game](https://github.com/TrustyTraitor/stealth-game)
-This project, made in Unity with C#, was my first attempt at making a stealth game. It is a proof of concept that primarily sought to emulate features from the Payday series.
+This project, made in Unity with **C#**, was my first attempt at making a stealth game. It is a proof of concept that primarily sought to emulate features from the Payday series.
 
 ### [WebGL](https://github.com/TrustyTraitor/WebGL-CG)
 This repo contains projects and homeworks from my computer graphics class at UNC Charlotte.
