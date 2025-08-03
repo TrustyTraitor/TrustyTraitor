@@ -2,16 +2,16 @@
 I'm a Software Developer and aspiring Indie Game Dev with a CompSci Masters, with a concentration on Game Dev and AI, from UNC Charlotte. With almost a decade of primarily self taught learning I am excited to learn more and dive into new projects.
 
 ## Featured Projects
-### [Blog Backend](https://github.com/TrustyTraitor/blog-backend)
+### [Blog Backend](https://github.com/TrustyTraitor/blog-backend) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 This project contains the API, written in **Python** using **FastAPI**, as well as database schema generation and interactions created with **SQLAlchemy**. This project supports users, login, creating blog posts, commenting, authentication, and authorization.
 
-### [Stealth Heist Game](https://github.com/TrustyTraitor/stealth-game)
+### [Stealth Heist Game](https://github.com/TrustyTraitor/stealth-game) [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 This project, made in Unity with **C#**, was my first attempt at making a stealth game. It is a proof of concept that primarily sought to emulate features from the Payday series.
 
-### [WebGL](https://github.com/TrustyTraitor/WebGL-CG)
+### [WebGL](https://github.com/TrustyTraitor/WebGL-CG) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 This repo contains projects and homeworks from my computer graphics class at UNC Charlotte.
 
-### [Space Liberator](https://github.com/TrustyTraitor/Space-Liberator)
+### [Space Liberator](https://github.com/TrustyTraitor/Space-Liberator) [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
 This is a game is inspired by Helldivers 2. It is a 2D top-down shooter made in GameMaker. This was created for my introductory game development class. The focus of my work on this project was creating clean and extensible systems to allow creation of content quickly.
 
 ## Game Development Tools
