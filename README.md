@@ -14,6 +14,8 @@ This repo contains projects and homeworks from my computer graphics class at UNC
 ### [Space Liberator](https://github.com/TrustyTraitor/Space-Liberator) [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
 This is a game is inspired by Helldivers 2. It is a 2D top-down shooter made in GameMaker. This was created for my introductory game development class. The focus of my work on this project was creating clean and extensible systems to allow creation of content quickly.
 
+---
+
 ## Game Development Tools
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#) [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
 
